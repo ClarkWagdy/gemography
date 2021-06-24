@@ -1,0 +1,18 @@
+.repoimg {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: white 2px solid;
+}
+.shape {
+  padding: 3px;
+  border: white 1px solid;
+}
+.arrow {
+  opacity: 0.5;
+}
+.arrow:hover {
+  transform: scale(1.2);
+  opacity: 1;
+}
